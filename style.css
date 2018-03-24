@@ -154,7 +154,7 @@ p {
 .portrait {
   border-style: solid;
   border-width: 7px;
-  flex: 1;
+  width: 100%;
 }
 
 .personal-info {
