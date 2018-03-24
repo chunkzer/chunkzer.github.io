@@ -1,0 +1,24 @@
+{
+  "name": "github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunkzer/chunkzer.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunkzer/chunkzer.github.io/issues"
+  },
+  "homepage": "https://github.com/chunkzer/chunkzer.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-debug": "^3.2.0"
+  }
+}
